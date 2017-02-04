@@ -1,0 +1,299 @@
+ 12% building modules 18/33 modules 15 active ...client\lib\transport\jsonp-poll
+ 12% building modules 18/34 modules 16 active ...ient\lib\transport\lib\iframe-w
+ 12% building modules 18/35 modules 17 active ...les\sockjs-client\lib\utils\ran
+ 12% building modules 18/36 modules 18 active ...les\sockjs-client\lib\utils\esc
+ 12% building modules 18/37 modules 19 active ...odules\sockjs-client\lib\utils\
+ 12% building modules 18/38 modules 20 active ...ules\sockjs-client\lib\utils\ev
+ 12% building modules 18/39 modules 21 active ...\sockjs-client\lib\utils\transp
+ 12% building modules 18/40 modules 22 active ...les\sockjs-client\lib\utils\obj
+ 12% building modules 18/41 modules 23 active ...es\sockjs-client\lib\utils\brow
+ 12% building modules 18/42 modules 24 active ...odules\sockjs-client\lib\utils\
+ 12% building modules 18/43 modules 25 active ...ules\sockjs-client\lib\event\ev
+ 12% building modules 18/44 modules 26 active ...ockjs-client\lib\event\eventtar
+ 12% building modules 18/45 modules 27 active ...ules\sockjs-client\lib\event\cl
+ 12% building modules 18/46 modules 28 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 19/46 modules 27 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 20/46 modules 26 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 21/46 modules 25 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 22/46 modules 24 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 23/46 modules 23 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 24/46 modules 22 active ...kjs-client\lib\event\trans-mess
+ 12% building modules 24/47 modules 23 active ...t-app\node_modules\process\brow
+ 13% building modules 25/47 modules 22 active ...t-app\node_modules\process\brow
+ 13% building modules 26/47 modules 21 active ...t-app\node_modules\process\brow
+ 13% building modules 27/47 modules 20 active ...t-app\node_modules\process\brow
+ 13% building modules 28/47 modules 19 active ...t-app\node_modules\process\brow
+ 13% building modules 29/47 modules 18 active ...t-app\node_modules\process\brow
+ 13% building modules 30/47 modules 17 active ...t-app\node_modules\process\brow
+ 13% building modules 31/47 modules 16 active ...t-app\node_modules\process\brow
+ 13% building modules 32/47 modules 15 active ...t-app\node_modules\process\brow
+ 13% building modules 33/47 modules 14 active ...t-app\node_modules\process\brow
+ 14% building modules 34/47 modules 13 active ...t-app\node_modules\process\brow
+ 14% building modules 35/47 modules 12 active ...t-app\node_modules\process\brow
+ 14% building modules 36/47 modules 11 active ...t-app\node_modules\process\brow
+ 14% building modules 37/47 modules 10 active ...t-app\node_modules\process\brow
+ 14% building modules 38/47 modules 9 active ...t-app\node_modules\process\brows
+ 14% building modules 39/47 modules 8 active ...t-app\node_modules\process\brows
+ 14% building modules 40/47 modules 7 active ...t-app\node_modules\process\brows
+ 14% building modules 41/47 modules 6 active ...t-app\node_modules\process\brows
+ 15% building modules 42/47 modules 5 active ...t-app\node_modules\process\brows
+ 15% building modules 43/47 modules 4 active ...t-app\node_modules\process\brows
+ 15% building modules 44/47 modules 3 active ...t-app\node_modules\process\brows
+ 15% building modules 45/47 modules 2 active ...t-app\node_modules\process\brows
+ 15% building modules 45/48 modules 3 active ...t-app\node_modules\url-parse\ind
+ 15% building modules 45/49 modules 4 active ..._modules\inherits\inherits_brows
+ 15% building modules 46/49 modules 3 active ..._modules\inherits\inherits_brows
+ 15% building modules 46/50 modules 4 active ...ules\sockjs-client\lib\info-ifra
+ 15% building modules 46/51 modules 5 active ...odules\sockjs-client\lib\info-aj
+ 15% building modules 46/52 modules 6 active ...es\sockjs-client\lib\event\emitt
+ 15% building modules 46/53 modules 7 active ...app\node_modules\debug\src\brows
+ 15% building modules 46/54 modules 8 active ...t-app\node_modules\json3\lib\jso
+ 15% building modules 46/55 modules 9 active ...e_modules\sockjs-client\lib\faca
+ 15% building modules 46/56 modules 10 active ...js-client\lib\info-iframe-recei
+ 15% building modules 46/57 modules 11 active ...les\sockjs-client\lib\utils\ifr
+ 15% building modules 46/58 modules 12 active ...lient\lib\transport\lib\ajax-ba
+ 15% building modules 46/59 modules 13 active ...\lib\transport\lib\sender-recei
+ 15% building modules 46/60 modules 14 active ...js-client\lib\utils\browser-cry
+ 15% building modules 46/61 modules 15 active ...sockjs-client\lib\transport\ifr
+ 15% building modules 46/62 modules 16 active ...js-client\lib\transport\sender\
+ 15% building modules 46/63 modules 17 active ...ient\lib\transport\sender\xhr-c
+ 15% building modules 46/64 modules 18 active ...ent\lib\transport\sender\xhr-lo
+ 15% building modules 46/65 modules 19 active ...ient\lib\transport\sender\xhr-f
+ 15% building modules 46/66 modules 20 active ...-client\lib\transport\sender\js
+ 15% building modules 46/67 modules 21 active ...nt\lib\transport\receiver\htmlf
+ 15% building modules 46/68 modules 22 active ...-client\lib\transport\receiver\
+ 15% building modules 46/69 modules 23 active ...lib\transport\receiver\eventsou
+ 15% building modules 46/70 modules 24 active ...lient\lib\transport\receiver\js
+ 15% building modules 46/71 modules 25 active ...\lib\transport\browser\eventsou
+ 15% building modules 47/71 modules 24 active ...\lib\transport\browser\eventsou
+ 15% building modules 47/72 modules 25 active ...nt\lib\transport\browser\websoc
+ 15% building modules 48/72 modules 24 active ...nt\lib\transport\browser\websoc
+ 15% building modules 49/72 modules 23 active ...nt\lib\transport\browser\websoc
+ 16% building modules 50/72 modules 22 active ...nt\lib\transport\browser\websoc
+ 16% building modules 51/72 modules 21 active ...nt\lib\transport\browser\websoc
+ 16% building modules 52/72 modules 20 active ...nt\lib\transport\browser\websoc
+ 16% building modules 53/72 modules 19 active ...nt\lib\transport\browser\websoc
+ 16% building modules 54/72 modules 18 active ...nt\lib\transport\browser\websoc
+ 16% building modules 55/72 modules 17 active ...nt\lib\transport\browser\websoc
+ 16% building modules 56/72 modules 16 active ...nt\lib\transport\browser\websoc
+ 16% building modules 57/72 modules 15 active ...nt\lib\transport\browser\websoc
+ 16% building modules 58/72 modules 14 active ...nt\lib\transport\browser\websoc
+ 17% building modules 59/72 modules 13 active ...nt\lib\transport\browser\websoc
+ 17% building modules 60/72 modules 12 active ...nt\lib\transport\browser\websoc
+ 17% building modules 61/72 modules 11 active ...nt\lib\transport\browser\websoc
+ 17% building modules 62/72 modules 10 active ...nt\lib\transport\browser\websoc
+ 17% building modules 63/72 modules 9 active ...nt\lib\transport\browser\websock
+ 17% building modules 64/72 modules 8 active ...nt\lib\transport\browser\websock
+ 17% building modules 65/72 modules 7 active ...nt\lib\transport\browser\websock
+ 17% building modules 65/73 modules 8 active ...p\node_modules\url-parse\lolcati
+ 17% building modules 66/73 modules 7 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 67/73 modules 6 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 68/73 modules 5 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 69/73 modules 4 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 70/73 modules 3 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 71/73 modules 2 active ...p\node_modules\url-parse\lolcati
+ 18% building modules 71/74 modules 3 active ...t-app\node_modules\debug\src\deb
+ 18% building modules 71/75 modules 4 active ...odules\webpack\buildin\amd-optio
+ 18% building modules 71/76 modules 5 active ...\lib\transport\lib\buffered-send
+ 18% building modules 71/77 modules 6 active ...s-client\lib\transport\lib\polli
+ 18% building modules 72/77 modules 5 active ...s-client\lib\transport\lib\polli
+ 18% building modules 72/78 modules 6 active ...lib\transport\browser\abstract-x
+ 18% building modules 73/78 modules 5 active ...lib\transport\browser\abstract-x
+ 18% building modules 73/79 modules 6 active ...p\node_modules\requires-port\ind
+ 18% building modules 73/80 modules 7 active ...\node_modules\querystringify\ind
+ 18% building modules 74/80 modules 6 active ...\node_modules\querystringify\ind
+ 19% building modules 75/80 modules 5 active ...\node_modules\querystringify\ind
+ 19% building modules 76/80 modules 4 active ...\node_modules\querystringify\ind
+ 19% building modules 77/80 modules 3 active ...\node_modules\querystringify\ind
+ 19% building modules 78/80 modules 2 active ...\node_modules\querystringify\ind
+ 19% building modules 79/80 modules 1 active ...\node_modules\querystringify\ind
+ 19% building modules 80/81 modules 1 active ...de\first-app\node_modules\ms\ind
+Hash: 3d1259a258649afe4fe6
+Time: 2365ms
+chunk    {0} main.bundle.js, main.bundle.map (main) 40 bytes {3} [initial] [rend
+ered]
+chunk    {1} styles.bundle.js, styles.bundle.map (styles) 28 bytes {4} [initial]
+ [rendered]
+chunk    {2} polyfills.bundle.js, polyfills.bundle.map (polyfills) 28 bytes {4}
+[initial] [rendered]
+chunk    {3} vendor.bundle.js, vendor.bundle.map (vendor) 234 kB [initial] [rend
+ered]
+chunk    {4} inline.bundle.js, inline.bundle.map (inline) 0 bytes [entry] [rende
+red]
+
+ERROR in multi webpack-dev-server/client?http://localhost:4200/ ./src/main.ts
+Module not found: Error: Can't resolve 'F:\' in 'F:\!Apriorit\GitHub\Angular2_Th
+eCompleteGuide\first-app'
+ @ multi webpack-dev-server/client?http://localhost:4200/ ./src/main.ts
+
+ERROR in multi ./src/polyfills.ts
+Module not found: Error: Can't resolve 'F:\' in 'F:\!Apriorit\GitHub\Angular2_Th
+eCompleteGuide\first-app'
+ @ multi ./src/polyfills.ts
+
+ERROR in multi ./src/styles.css
+Module not found: Error: Can't resolve 'F:\' in 'F:\!Apriorit\GitHub\Angular2_Th
+eCompleteGuide\first-app'
+ @ multi ./src/styles.css
+
+ERROR in   Error: Child compilation failed:
+  Entry module not found: Error: Can't resolve 'F:\' in 'F:\!Apriorit\GitHub\Ang
+  ular2_TheCompleteGuide\first-app':
+  Error: Can't resolve 'F:\' in 'F:\!Apriorit\GitHub\Angular2_TheCompleteGuide\f
+  irst-app'
+
+  - compiler.js:76
+    [first-app]/[html-webpack-plugin]/lib/compiler.js:76:16
+
+  - Compiler.js:280 Compiler.<anonymous>
+    [first-app]/[webpack]/lib/Compiler.js:280:10
+
+  - Compiler.js:480
+    [first-app]/[webpack]/lib/Compiler.js:480:13
+
+  - Tapable.js:138 next
+    [first-app]/[tapable]/lib/Tapable.js:138:11
+
+  - CachePlugin.js:62 Compiler.<anonymous>
+    [first-app]/[webpack]/lib/CachePlugin.js:62:5
+
+  - Tapable.js:142 Compiler.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:142:13
+
+  - Compiler.js:477
+    [first-app]/[webpack]/lib/Compiler.js:477:10
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:615 self.applyPluginsAsync.err
+    [first-app]/[webpack]/lib/Compilation.js:615:19
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:606 self.applyPluginsAsync.err
+    [first-app]/[webpack]/lib/Compilation.js:606:11
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:601 self.applyPluginsAsync.err
+    [first-app]/[webpack]/lib/Compilation.js:601:10
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:597 sealPart2
+    [first-app]/[webpack]/lib/Compilation.js:597:9
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [first-app]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:545 Compilation.seal
+    [first-app]/[webpack]/lib/Compilation.js:545:8
+
+  - Compiler.js:474
+    [first-app]/[webpack]/lib/Compiler.js:474:16
+
+  - Tapable.js:225
+    [first-app]/[tapable]/lib/Tapable.js:225:11
+
+  - Compilation.js:452 _addModuleChain
+    [first-app]/[webpack]/lib/Compilation.js:452:11
+
+  - Compilation.js:345 Compilation.errorAndCallback
+    [first-app]/[webpack]/lib/Compilation.js:345:4
+
+  - Compilation.js:362 moduleFactory.create
+    [first-app]/[webpack]/lib/Compilation.js:362:12
+
+  - NormalModuleFactory.js:234
+    [first-app]/[webpack]/lib/NormalModuleFactory.js:234:19
+
+  - NormalModuleFactory.js:59 onDoneResolving
+    [first-app]/[webpack]/lib/NormalModuleFactory.js:59:20
+
+  - NormalModuleFactory.js:126
+    [first-app]/[webpack]/lib/NormalModuleFactory.js:126:20
+
+  - async.js:3694
+    [first-app]/[async]/dist/async.js:3694:9
+
+  - async.js:356
+    [first-app]/[async]/dist/async.js:356:16
+
+  - async.js:934 iteratorCallback
+    [first-app]/[async]/dist/async.js:934:13
+
+  - async.js:840
+    [first-app]/[async]/dist/async.js:840:16
+
+  - async.js:3691
+    [first-app]/[async]/dist/async.js:3691:13
+
+  - async.js:21 apply
+    [first-app]/[async]/dist/async.js:21:25
+
+  - async.js:56
+    [first-app]/[async]/dist/async.js:56:12
+
+  - async.js:1013
+    [first-app]/[async]/dist/async.js:1013:9
+
+  - async.js:356
+    [first-app]/[async]/dist/async.js:356:16
+
+  - async.js:934 iteratorCallback
+    [first-app]/[async]/dist/async.js:934:13
+
+  - async.js:840
+    [first-app]/[async]/dist/async.js:840:16
+
+  - async.js:1010
+    [first-app]/[async]/dist/async.js:1010:13
+
+  - NormalModuleFactory.js:259
+    [first-app]/[webpack]/lib/NormalModuleFactory.js:259:6
+
+  - Resolver.js:70 onResolved
+    [first-app]/[webpack]/[enhanced-resolve]/lib/Resolver.js:70:11
+
+  - createInnerCallback.js:31 loggingCallbackWrapper
+    [first-app]/[webpack]/[enhanced-resolve]/lib/createInnerCallback.js:31:19
+
+  - Resolver.js:138 afterInnerCallback
+    [first-app]/[webpack]/[enhanced-resolve]/lib/Resolver.js:138:10
+
+  - createInnerCallback.js:31 loggingCallbackWrapper
+    [first-app]/[webpack]/[enhanced-resolve]/lib/createInnerCallback.js:31:19
+
+  - Tapable.js:181 Resolver.applyPluginsAsyncSeriesBailResult1
+    [first-app]/[tapable]/lib/Tapable.js:181:46
+
+  - Resolver.js:125 innerCallback
+    [first-app]/[webpack]/[enhanced-resolve]/lib/Resolver.js:125:19
+
+  - createInnerCallback.js:31 loggingCallbackWrapper
+    [first-app]/[webpack]/[enhanced-resolve]/lib/createInnerCallback.js:31:19
+
+  - Tapable.js:283
+    [first-app]/[tapable]/lib/Tapable.js:283:15
+
+  - UnsafeCachePlugin.js:38
+    [first-app]/[webpack]/[enhanced-resolve]/lib/UnsafeCachePlugin.js:38:4
+
+  - createInnerCallback.js:31 loggingCallbackWrapper
+    [first-app]/[webpack]/[enhanced-resolve]/lib/createInnerCallback.js:31:19
+
+  - Resolver.js:138 afterInnerCallback
+    [first-app]/[webpack]/[enhanced-resolve]/lib/Resolver.js:138:10
+
+  - createInnerCallback.js:31 loggingCallbackWrapper
+    [first-app]/[webpack]/[enhanced-resolve]/lib/createInnerCallback.js:31:19
+
+  - Tapable.js:181 Resolver.applyPluginsAsyncSeriesBailResult1
+    [first-app]/[tapable]/lib/Tapable.js:181:46
+
+
+webpack: Failed to compile.
